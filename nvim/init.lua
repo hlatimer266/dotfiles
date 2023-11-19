@@ -1,0 +1,1 @@
+/home/hl/.config/nvim/init.lua
