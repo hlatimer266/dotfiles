@@ -36,7 +36,6 @@ export MAGIC_DASHBOARD_FILES_LINES=6
 # Disable dashboard in low terminal windows. 
 # (Useful for tmux or for terminals embedded in your IDE.)
 export MAGIC_DASHBOARD_DISABLED_BELOW_TERM_HEIGHT=15
-export HL_GHE=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
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 export ls='ls -GFh'
